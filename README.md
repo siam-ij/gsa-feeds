@@ -1,1 +1,1 @@
-Update YOLOv3 and YOLOv5 YAMLs (#7574)
+ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)

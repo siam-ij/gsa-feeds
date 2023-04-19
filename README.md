@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)

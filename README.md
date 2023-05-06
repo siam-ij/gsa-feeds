@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+YOLOv8 INT8 TFLite Inference Example (#7317)

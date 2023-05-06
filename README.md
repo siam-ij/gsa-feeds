@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Add horizontal Mosaic3 augmentation (#6898)

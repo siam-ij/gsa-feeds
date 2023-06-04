@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+Fix PNNX ubuntu -> linux bug (#7050)

@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)

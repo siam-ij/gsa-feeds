@@ -1,1 +1,1 @@
-Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
+Add missing single-line docstrings (#8362)

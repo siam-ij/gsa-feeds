@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Expand Model method type hinting (#8279)

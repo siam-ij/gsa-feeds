@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Docs partial mdformat improvements (#7378)

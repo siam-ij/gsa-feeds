@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Update fraction arg to employ a random selection (#8234)

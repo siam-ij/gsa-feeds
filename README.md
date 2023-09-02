@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Update format.yml to pull_request_target (#7460)

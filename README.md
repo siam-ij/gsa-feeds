@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+Add new YOLOv8 OBB model metrics (#7379)

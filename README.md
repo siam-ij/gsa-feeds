@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+YOLOv8 INT8 TFLite Inference Example (#7317)

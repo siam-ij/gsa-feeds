@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+Fix heatmaps width-height order bug (#7184)

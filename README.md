@@ -1,1 +1,1 @@
-ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info

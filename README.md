@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Merge pull request #22 from SkalskiP/patch-1

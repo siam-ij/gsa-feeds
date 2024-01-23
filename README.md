@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Update pyproject.toml and Docs (#7274)

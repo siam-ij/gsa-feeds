@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)

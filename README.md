@@ -1,1 +1,1 @@
-example Google Colab
+docs: update view-results-in-terminal.md (#66)

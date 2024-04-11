@@ -1,1 +1,1 @@
-Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)

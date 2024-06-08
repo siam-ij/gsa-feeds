@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Update Docs Home and Neural Magic pages (#7243)

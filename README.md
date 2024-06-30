@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Add HUB-SDK Docs reference section (#7781)

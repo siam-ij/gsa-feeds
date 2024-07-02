@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+YOLOv8 INT8 TFLite Inference Example (#7317)

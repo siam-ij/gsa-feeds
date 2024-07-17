@@ -1,1 +1,1 @@
-fix resume training
+Fix docker.yaml double-quote version bug (#7452)

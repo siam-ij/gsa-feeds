@@ -1,1 +1,1 @@
-ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)

@@ -1,1 +1,1 @@
-Fixed dataloader CPU bottleneck for small batch sizes (#7659)
+ultralytics 8.0.225 multi-video tracker bug fix (#6862)

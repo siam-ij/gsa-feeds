@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Clarify triton server boolean value (#8532)

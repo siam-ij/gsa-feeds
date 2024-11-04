@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Add PR Summary step to Ultralytics Actions (#7675)

@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)

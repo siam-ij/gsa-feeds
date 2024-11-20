@@ -1,1 +1,1 @@
-ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
